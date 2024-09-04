@@ -93,6 +93,7 @@ h1:hover {
 }
 
 p.description {
+  color: var(--Gray-500);
   font-size: 16px;
   line-height: 150%;
   margin-top: 12px;
